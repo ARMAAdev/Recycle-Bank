@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473544749748",
+    "project_id": "ecofriendly-banking",
+    "storage_bucket": "ecofriendly-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473544749748:android:1bc00731558b4584bfdde1",
+        "android_client_info": {
+          "package_name": "com.example.fintechproject.ecofriendly_banking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzMbTBdmQ15R4jVbj3IOGMTD5kvih2CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
